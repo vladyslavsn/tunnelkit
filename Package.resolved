@@ -23,7 +23,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/vladyslavsn/wireguard-apple",
       "state" : {
-        "revision" : "31116920e3d4ea2436dd185abf0f191ab9210d49"
+        "revision" : "55c23f46583258758f5cf201893a9fc7dcef88b3"
       }
     }
   ],
